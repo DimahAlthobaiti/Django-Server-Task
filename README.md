@@ -2,6 +2,7 @@
 
 In this task I used Django Framework with Python instead of XAMPP with PHP, external Postgresql instead of MySql. 
 I made this on a local server and database. 
+I also added a condition to not accept any negative number in Age field.
 
 This project is a simple Django web app that allows users to:
 - Submit name and age through a form.
